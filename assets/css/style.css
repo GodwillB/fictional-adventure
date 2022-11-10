@@ -343,7 +343,7 @@ input[type=radio] {
   display: -webkit-inline-box;
   display: -ms-inline-flexbox;
   display: inline-flex;
-  color: #FB683E;
+  color: red;
   text-transform: capitalize;
 }
 
@@ -6438,7 +6438,7 @@ h6,
   line-height: 1;
   font-weight: 700;
   font-size: 110px;
-  color: #FB683E;
+  color: red;
   font-family: "DM Serif Display", serif;
 }
 
@@ -6471,9 +6471,9 @@ h6,
   -ms-transform: matrix(-1, 0, 0, 1, 0, 0);
   transform: matrix(-1, 0, 0, 1, 0, 0);
   background: -webkit-gradient(linear, right top, left top, from(#FB5D4A), color-stop(117.45%, #FF9B07));
-  background: -webkit-linear-gradient(right, #FB5D4A 0%, #FF9B07 117.45%);
-  background: -o-linear-gradient(right, #FB5D4A 0%, #FF9B07 117.45%);
-  background: linear-gradient(270deg, #FB5D4A 0%, #FF9B07 117.45%);
+  background: -webkit-linear-gradient(right, red 0%, red 117.45%);
+  background: -o-linear-gradient(right, red 0%, red 117.45%);
+  background: linear-gradient(270deg, red 0%, red 117.45%);
 }
 
 .about-feature-item {
@@ -6494,7 +6494,7 @@ h6,
   font-size: 35px;
   margin-right: 15px;
   color: transparent;
-  -webkit-text-stroke: 1px #FB683E;
+  -webkit-text-stroke: 1px red;
 }
 
 .about-feature-item h4 i {
