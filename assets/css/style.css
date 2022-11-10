@@ -491,9 +491,9 @@ a.theme-btn {
   text-transform: uppercase;
   background-size: 100% 300%;
   background-image: -webkit-gradient(linear, right top, left top, from(#FB5D4A), color-stop(117.45%, #FF9B07), color-stop(0%, #FB5D4A), color-stop(117.45%, #FF9B07));
-  background-image: -webkit-linear-gradient(right, #FB5D4A 0%, #FF9B07 117.45%, #FB5D4A 0%, #FF9B07 117.45%);
-  background-image: -o-linear-gradient(right, #FB5D4A 0%, #FF9B07 117.45%, #FB5D4A 0%, #FF9B07 117.45%);
-  background-image: linear-gradient(270deg, #FB5D4A 0%, #FF9B07 117.45%, #FB5D4A 0%, #FF9B07 117.45%);
+  background-image: -webkit-linear-gradient(right, red 0%, red 117.45%, red 0%, red 117.45%);
+  background-image: -o-linear-gradient(right, red 0%, red 117.45%, red 0%, red 117.45%);
+  background-image: linear-gradient(270deg, red 0%, red117.45%, red 0%, red 117.45%);
 }
 
 .theme-btn i,
@@ -1046,9 +1046,9 @@ a.theme-btn.btn-small {
   width: 92px;
   height: 92px;
   background: -webkit-gradient(linear, right top, left top, from(#FB5D4A), color-stop(117.45%, #FF9B07));
-  background: -webkit-linear-gradient(right, #FB5D4A 0%, #FF9B07 117.45%);
-  background: -o-linear-gradient(right, #FB5D4A 0%, #FF9B07 117.45%);
-  background: linear-gradient(270deg, #FB5D4A 0%, #FF9B07 117.45%);
+  background: -webkit-linear-gradient(right, red 0%, red 117.45%);
+  background: -o-linear-gradient(right, red 0%, red 117.45%);
+  background: linear-gradient(270deg, red 0%, red 117.45%);
   line-height: 92px;
   border-radius: 50%;
   text-align: center;
@@ -4899,7 +4899,7 @@ h6,
   margin-left: 0;
   font-size: 20px;
   font-weight: 500;
-  color: #FB683E;
+  color: red;
 }
 
 .nav-right-part-desktop {
@@ -5893,9 +5893,9 @@ h6,
   -webkit-transform: matrix(-1, 0, 0, 1, 0, 0);
   -ms-transform: matrix(-1, 0, 0, 1, 0, 0);
   transform: matrix(-1, 0, 0, 1, 0, 0);
-  background: -webkit-linear-gradient(55.28deg, #FB5D4A 1.03%, #FF9B07 40.49%);
-  background: -o-linear-gradient(55.28deg, #FB5D4A 1.03%, #FF9B07 40.49%);
-  background: linear-gradient(34.72deg, #FB5D4A 1.03%, #FF9B07 40.49%);
+  background: -webkit-linear-gradient(55.28deg, red 1.03%, red 40.49%);
+  background: -o-linear-gradient(55.28deg, red 1.03%, red 40.49%);
+  background: linear-gradient(34.72deg, red 1.03%, red 40.49%);
 }
 
 .hero-image-part .video-play {
